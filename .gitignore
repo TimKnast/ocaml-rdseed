@@ -1,3 +1,5 @@
+rdseed.mli
+*.native
 *.annot
 *.cmo
 *.cma
